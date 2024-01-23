@@ -1,0 +1,21 @@
+@mixin classNameCompetences {
+  width: 10%;
+  display: flex;
+}
+
+@mixin imgCompetences {
+  width: 40px;
+  height: 40px;
+}
+
+@mixin spanCompetences {
+  width: 20%;
+  font-size: 1em;
+  color: white;
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-left: 20px;
+}

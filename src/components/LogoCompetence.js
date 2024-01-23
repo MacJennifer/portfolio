@@ -11,7 +11,7 @@ const LogoCompetence = () => {
         <img src={figma} alt="logo de Figma" />
         <span>Figma</span>
       </div>
-      <div className="React">
+      <div className="react">
         <img src={react} alt="logo de React" />
         <span>React</span>
       </div>
